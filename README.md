@@ -1,6 +1,12 @@
-# KELA Agents
+<p align="center">
+  <img src="images/logo.png" alt="KELA Agents Logo" width="128">
+</p>
 
-> 智能 Excel 数据分析助手 - 让非技术用户通过自然语言查询和分析 Excel 数据
+<h1 align="center">KELA Agents</h1>
+
+<p align="center">
+  智能 Excel 数据分析助手 - 让非技术用户通过自然语言查询和分析 Excel 数据
+</p>
 
 KELA (KoalaQ Excel Language Agent) 是一款面向办公白领的桌面应用，无需懂 SQL 或编程，只需用自然语言提问，即可完成复杂的数据查询、分析和可视化。
 
