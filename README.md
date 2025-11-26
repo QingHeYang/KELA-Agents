@@ -17,6 +17,21 @@
 - **关注需求** - 用自然语言描述需求，AI 帮你完成查询
 - **关注数据** - 数据安全存储在本地，按需付费使用 LLM
 
+## 📸 功能截图
+
+<p>
+  <img src="images/Home.png" width="45%" alt="主页">
+  <img src="images/工作区详情.png" width="45%" alt="核心业务">
+</p>
+<p>
+  <img src="images/数据表.png" width="45%" alt="数据表">
+  <img src="images/智能理解分析.png" width="45%" alt="智能导入">
+</p>
+
+> 📷 [查看完整截图](docs/zh/screenshots.md)
+
+---
+
 ## 🔬 工作原理
 
 ```
@@ -116,6 +131,7 @@ KELA 为大模型提供了丰富的工具：
 
 | 局限 | 原因 |
 |------|------|
+| 仅支持单 Sheet | 多 Sheet 的 Excel 需拆分为多个文件分别导入 |
 | 无法直接操作 Office | 项目原理是将数据导入内部数据库处理 |
 | 无法对已有数据表追加数据 | 结构设计限制（LLM 新增记录除外） |
 | 无法调整 Excel 样式 | 项目专注数据分析，不关注样式 |
@@ -153,6 +169,11 @@ KELA 为大模型提供了丰富的工具：
 | Windows | `KELA-Agents-x.x.x-Setup.exe` |
 | macOS (Intel) | `KELA-Agents-x.x.x-x64.dmg` |
 | macOS (Apple Silicon) | `KELA-Agents-x.x.x-arm64.dmg` |
+
+| 项目 | 大小 |
+|------|------|
+| 安装包 | ~170 MB |
+| 安装后占用 | ~660 MB |
 
 ## 🤝 贡献与反馈
 
