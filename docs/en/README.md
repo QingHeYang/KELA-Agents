@@ -253,6 +253,8 @@ Import Excel  ──→  AI Understanding  ──→  Data Storage  ──→  N
 | Columns | Max 100 (combined) |
 | Rows | Unlimited (depends on memory) |
 
+> 📊 [View detailed performance data](performance.md)
+
 ## Language Support
 
 | Language | Status |
